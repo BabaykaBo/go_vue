@@ -1,0 +1,1 @@
+ALTER TABLE tokens DROP FOREIGN KEY fk_users_tokens;
